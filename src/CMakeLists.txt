@@ -1,1 +1,2 @@
 add_subdirectory(erad)
+add_subdirectory(erad_console)

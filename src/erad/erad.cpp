@@ -1,6 +1,5 @@
 
 #include "erad/erad.h"
-
-#include <cmath>
-
-double Erad::sqrt(double a) { return std::sqrt(a); }
+char const ** GetDriveNames(int &number_drives) {
+  return nullptr;
+}
